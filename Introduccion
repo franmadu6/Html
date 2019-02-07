@@ -137,7 +137,7 @@ Código	Función
 <I>...</I>	Cursiva
 <U>...</U>	Subrayado
 <SUB>...</SUB>	Subíndice
-<SUP>...</SUP>  	Superíndice
+<SUP>...</SUP>  Superíndice
 
     Hay que realizar algunos comentarios sobre las etiquetas precedentes:
         Existe otra etiqueta similar a <B>, menos utilizada porque depende de las opciones de configuración del navegador: <STRONG>...</STRONG>.
@@ -186,7 +186,7 @@ Código	Función
     Las etiquetas anteriores permiten alinear los párrafos enteros, pero siempre dejando una línea vacía delante de cada uno de ellas. ¿Hay alguna manera de alinear independientemente líneas o grupos de líneas? Sí, con las siguientes etiquetas:
 
 Código	Función
-<DIV align="left">...</DIV>	Línea(s) alineada(s) a la izquierda  
+<DIV align="left">...</DIV>	    Línea(s) alineada(s) a la izquierda  
 <DIV align="center">...</DIV>  	Línea(s) centrada(s)
 <DIV align="right">...</DIV>	Línea(s) alineada(s) a la derecha
 <DIV align="justify">...</DIV>	Línea(s) alineada(s) justificadas
